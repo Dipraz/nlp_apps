@@ -1,0 +1,7 @@
+streamlit
+spacy
+textblob
+sumy
+transformers
+nltk
+pandas
